@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @soraraso42
-- 👀 I’m interested in Web Dev and Networking
-- 🌱 I’m currently learning Python, javeScript, CSS and HTML, MySQL, CCNA
-- 💞️ I’m looking to collaborate on campus path finder on CircuitPlayground
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in Web Dev and DevOps
+- 🌱 I’m currently learning ASP.NET, C#, TypeScript, Node.js
+- 💞️ I’m looking for coop position in the Ottawa Metropolitan Region
+- 📫 How to reach me :LinkedIn
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I make very good coffee, curry and sourdough.
 
 <!---
