@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soraraso42
 - 👀 I’m interested in Web Dev and DevOps
-- 🌱 I’m currently learning ASP.NET, C#, TypeScript, Node.js
+- 🌱 I’m currently learning ASP.NET, C#, Python, Node.js
 - 💞️ I’m looking for coop position in the Ottawa Metropolitan Region
 - 📫 How to reach me :LinkedIn
 - 😄 Pronouns: She/Her
